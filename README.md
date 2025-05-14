@@ -1,6 +1,6 @@
 # 👋 Hi, I'm William Moore
 
-🎯 Cloud Solutions Architect | AWS Engineer | 6x AWS Certified | Terraform | Python | Azure  
+🎯 Cloud Solutions Architect/Engineer | 6x AWS Certified | Terraform | Python | Azure  
 🎓 M.S. in Information Technology Management | U.S. Army Veteran | Digital Cloud Bootcamp Graduate
 
 Welcome to my GitHub portfolio! I’m a confident and results-driven IT professional with over 8 years of experience in systems administration, support, and security — now specializing in cloud computing and infrastructure automation. I actively design, build, and secure production-grade cloud environments using AWS, Terraform, and Python, while applying deep knowledge of information security principles and compliance standards. My passion lies in solving real-world problems through scalable architectures, continuous learning, and hands-on execution across cloud-native and hybrid platforms.
